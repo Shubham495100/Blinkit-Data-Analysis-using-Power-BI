@@ -1,2 +1,12 @@
 # Blinkit-Data-Analysis-using-Power-BI
-Analyzed customer data for Blinkit using Power BI. Developed interactive dashboards to visualize sales trends and behavior. Identified key insights on customer preferences and optimized marketing strategies. Improved customer satisfaction and drove business growth through data-driven decisions.
+Objective: Analyzed customer data to inform business decisions.
+
+**Key Highlights**:
+
+- Analyzed customer behavior and preferences
+- Created interactive Power BI dashboards
+- Identified top-selling products and delivery issues
+- Measured marketing campaign effectiveness
+
+**Tools**: Power BI, Data Analysis
+
